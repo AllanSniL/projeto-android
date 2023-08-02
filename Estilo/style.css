@@ -32,7 +32,7 @@
 
 body{
     background-color: #c5ebd6;
-    font-family: var(--allan);    
+    font-family: var(--fonte-padrao);    
 }
 
 a.externo::after{
